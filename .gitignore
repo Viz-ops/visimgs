@@ -6,3 +6,5 @@
 
 # Except .avif files
 !*.avif
+
+!*.json
